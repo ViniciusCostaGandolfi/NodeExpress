@@ -10,7 +10,7 @@ Principais Códigos de Resposta HTTP
 
  Restante dos comandos em 'https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status'.
 
- node server,js
+ node server.js
  dev executa nodemon server.js
  npm run dev
 */
